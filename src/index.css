@@ -2,11 +2,15 @@
 
 @font-face {
   font-family: font1;
-  src: url(font/Lausanne-300.woff2)
+  src: url('https://res.cloudinary.com/djlcf4ix9/raw/upload/v1757103932/Lausanne-300_r1z90g.woff2');
+  font-weight: 300;
+  font-style: normal;
 }
 @font-face {
   font-family: font2;
-  src: url(font/Lausanne-500.woff2)
+  src: url('https://res.cloudinary.com/djlcf4ix9/raw/upload/v1757104290/Lausanne-500_vbrxaq.woff2');
+  font-weight: 500;
+  font-style: normal;
 }
 
 .moveLink{
