@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="public/images/logo.png" alt="K72 Logo" width="120" />
+ 
 
 # K72 — Creative Agency Animated Website
 
